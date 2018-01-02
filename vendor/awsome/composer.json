@@ -1,0 +1,21 @@
+{
+  "name": "awsome/awsome",
+  "description": "Classes for you and me",
+  "keywords": ["awsome","logging"],
+  // "homepage": "http://github.com/Seldaek/monolog",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aaron Pampolino",
+      "email": "pampolino.aaron@gmail.com",
+      // "homepage": "http://seld.be"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.*"
+  },
+  "autoload": {
+    "psr-4": {"Awsome\\": "src/Awsome/"}
+  }
+}

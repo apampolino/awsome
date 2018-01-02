@@ -1,0 +1,8 @@
+vendor/defuse
+vendor/lcobucci
+vendor/league
+vendor/monolog
+vendor/paragonie
+vendor/psr
+vendor/twig
+public/js
