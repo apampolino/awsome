@@ -8,8 +8,6 @@ class AwsomeApplication {
 
     public static $instance;
 
-    public $_method = "test";
-
     public function __construct() {
 
         self::$instance = $this;
